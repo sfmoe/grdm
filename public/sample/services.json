@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "id": "8982636",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-01-21",
+        "end": "2022-02-21",
+        "cost": 2278.51,
+        "tndCost": 1662.14,
+        "genCost": 616.37,
+        "use": 7897.2,
+        "useUnit": "kW",
+        "demand": 28.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/8982636/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9036741",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-02-22",
+        "end": "2022-03-22",
+        "cost": 2841.96,
+        "tndCost": 2242.7,
+        "genCost": 599.26,
+        "use": 7137.9,
+        "useUnit": "kW",
+        "demand": 77.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9036741/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9080179",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-03-23",
+        "end": "2022-04-21",
+        "cost": 2401.87,
+        "tndCost": 1385.11,
+        "genCost": 1016.76,
+        "use": 7329.0,
+        "useUnit": "kW",
+        "demand": 31.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9080179/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9135204",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-04-22",
+        "end": "2022-05-22",
+        "cost": 3448.4,
+        "tndCost": 2423.18,
+        "genCost": 1025.22,
+        "use": 7369.2,
+        "useUnit": "kW",
+        "demand": 88.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9135204/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9215715",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-05-23",
+        "end": "2022-06-21",
+        "cost": 3190.33,
+        "tndCost": 1858.84,
+        "genCost": 1331.49,
+        "use": 8348.7,
+        "useUnit": "kW",
+        "demand": 48.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9215715/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9295220",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-06-22",
+        "end": "2022-07-21",
+        "cost": 3966.55,
+        "tndCost": 2624.15,
+        "genCost": 1342.4,
+        "use": 8124.0,
+        "useUnit": "kW",
+        "demand": 82.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9295220/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9373019",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-07-22",
+        "end": "2022-08-22",
+        "cost": 3531.14,
+        "tndCost": 2042.22,
+        "genCost": 1488.92,
+        "use": 9069.0,
+        "useUnit": "kW",
+        "demand": 44.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9373019/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9420227",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-08-23",
+        "end": "2022-09-21",
+        "cost": 4552.59,
+        "tndCost": 2992.42,
+        "genCost": 1560.17,
+        "use": 9540.15,
+        "useUnit": "kW",
+        "demand": 95.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9420227/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9461940",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-09-22",
+        "end": "2022-10-20",
+        "cost": 3004.35,
+        "tndCost": 1727.04,
+        "genCost": 1277.31,
+        "use": 8407.8,
+        "useUnit": "kW",
+        "demand": 38.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9461940/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9583624",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-10-21",
+        "end": "2022-11-20",
+        "cost": 2730.19,
+        "tndCost": 1592.55,
+        "genCost": 1137.64,
+        "use": 7867.5,
+        "useUnit": "kW",
+        "demand": 36.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9583624/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9636800",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-11-21",
+        "end": "2022-12-20",
+        "cost": 2686.57,
+        "tndCost": 1446.64,
+        "genCost": 1239.93,
+        "use": 8582.4,
+        "useUnit": "kW",
+        "demand": 25.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9636800/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    },
+    {
+      "id": "9672924",
+      "type": "bill",
+      "attributes": {
+        "start": "2022-12-21",
+        "end": "2023-01-22",
+        "cost": 3970.86,
+        "tndCost": 2644.79,
+        "genCost": 1326.07,
+        "use": 9189.3,
+        "useUnit": "kW",
+        "demand": 88.0,
+        "demandUnit": "kW",
+        "tariff": "PGETD-B-10-S",
+        "fileUrl": "/api/public/services/2080448990210/bills/9672924/statementFile?token=4f981c43-bf28-404c-ba22-461b5979b359"
+      },
+      "relationships": {
+        "utilityService": {
+          "data": {
+            "id": "2080448990210",
+            "type": "utilityService"
+          }
+        }
+      }
+    }
+  ]
+}
